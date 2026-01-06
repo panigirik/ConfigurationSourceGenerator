@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ShcMxDQ0hQ=",
+  "success": true,
+  "projectFilePath": "D:\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator.csproj",
+  "expectedPackageFiles": [
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\microsoft.codeanalysis.analyzers\\4.14.0\\microsoft.codeanalysis.analyzers.4.14.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\microsoft.codeanalysis.common\\4.6.0\\microsoft.codeanalysis.common.4.6.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\microsoft.codeanalysis.csharp\\4.6.0\\microsoft.codeanalysis.csharp.4.6.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Netway.AuditableEntity.SourceGenerator depends on Microsoft.CodeAnalysis.Analyzers (>= 3.14.0) but Microsoft.CodeAnalysis.Analyzers 3.14.0 was not found. Microsoft.CodeAnalysis.Analyzers 4.14.0 was resolved instead.",
+      "projectPath": "D:\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator\\Netway.AuditableEntity.SourceGenerator.csproj",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

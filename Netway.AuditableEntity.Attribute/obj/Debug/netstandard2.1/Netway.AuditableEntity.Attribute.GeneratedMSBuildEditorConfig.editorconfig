@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Netway.AuditableEntity.Attribute
+build_property.ProjectDir = D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

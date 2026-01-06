@@ -1,0 +1,9 @@
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\bin\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.deps.json
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\bin\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.dll
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\bin\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.pdb
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.AssemblyInfoInputs.cache
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.AssemblyInfo.cs
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.csproj.CoreCompileInputs.cache
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.dll
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.Attribute\obj\Debug\netstandard2.1\Netway.AuditableEntity.Attribute.pdb

@@ -1,0 +1,13 @@
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\bin\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.deps.json
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\bin\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.dll
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\bin\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.pdb
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\bin\Release\netstandard2.0\Netway.AuditableEntity.Attribute.dll
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\bin\Release\netstandard2.0\Netway.AuditableEntity.Attribute.pdb
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.csproj.AssemblyReference.cache
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.AssemblyInfoInputs.cache
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.AssemblyInfo.cs
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.csproj.CoreCompileInputs.cache
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.A.739D1139.Up2Date
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.dll
+D:\Netway.AuditableEntity.SourceGenerator\Netway.AuditableEntity.SourceGenerator\obj\Release\netstandard2.0\Netway.AuditableEntity.SourceGenerator.pdb
